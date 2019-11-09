@@ -1,13 +1,19 @@
 # Site settings
 #
-# Date of this Update to Config-template file ver 12-18-2017
+# Date of this Update to Config-template file ver 01-01-2018
 #
-# github: [metadata]
+# Uncomment theme for docs folder
 theme: "jekyll-theme-cayman"
-# repository: https://www.github.com/rwebaz/Go-Lessons-Project
+#
+# There is one main repository as of 12-31-17
+# repository: https://www.github.com/MMINAIL/mminail.github.io
+#
+# There are approx sixty auxillary repositories as of 12-31-17
+# repository: https://www.github.com/rwebaz/Unix-Lessons-Project
+#
 title: "Unix Lesson Project"
-tagline: "A GitHub repo of Lessons and Articles that emphasize both the GFM and Kramdown engines"
-description: "A GitHub repo of Lessons and Articles that emphasize both the GFM and Kramdown engines"
+tagline: "A GitHub repo of Lessons and Articles that emphasize the Unix machine language"
+description: "The Unix Lessons Project, or ULP is a GitHub repo of Lessons and Articles emphasizing the Unix machine language."
 twitter:
     username: "mminail"
 author:
@@ -15,10 +21,10 @@ author:
     email: "mminail@icloud.com"
     github_username: "rwebaz"
     twitter_username: "rwebaz"
-# The 'baseurl' is the subpath of your designated project, e.g. /Liquid-Lessons-Project
+# The 'baseurl' is the subpath of your designated project, e.g. /Blank-Lessons-Project or /blog or simply "/"
 baseurl: "/Unix-Lessons-Project"
-# The 'url' is the parental web address of your designated project, e.g. /https://rwebaz.github.io
-url: "https://mminail.github.io"
+# The 'url' is the parental web address of your designated project, e.g. /https://mminail.github.io
+url: "https://rwebaz.github.io"
 exclude: ['README.md']
 markdown: "kramdown"
 highlighter: "rouge"
@@ -74,3 +80,4 @@ plugins_dir:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Gemfile.old
