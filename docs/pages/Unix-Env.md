@@ -1,13 +1,14 @@
 ---
 title: Unix Env
 layout: default
-navigation_weight: 9
+excerpt: The Unix environment command `env` is a built-in method that produces a list back to the Terminal window ...
+description: Place the intro paragraph ie.) the 'synopsis' here ...
+repo: Unix-Lessons-Project 
+ver_date: 11-17-19
+navigation_weight: 8
+categories: template
 ---
-# Unix Env
-
-The environment command `env` is a built-in method that produces a list back to the Terminal window.
-
-{% include toc-flammarion.md %}
+{% include toc.md %}
 
 ## Environmental Variables
 
@@ -97,6 +98,10 @@ No need to capitalize with the shift key.
 
 ## Other Disk Utilities
 
+More to come ...
+
+{{ page.description }}
+
 ### How To Find The Amount of Available Disk Space In Mac Os
 
 The **Disk Free** command, or `df` will return a chart of available capacity when coupled with the **Human Readable** switch `-h`.
@@ -109,8 +114,4 @@ df -h
 {% endraw %}
 ```
 
-{% include sources-and-uses.md %}
-
-### External Sources
-
-- The [Project Source Links](https://mminail.github.io/Unix/Source-Unix-Links.htm){:title="Click to Visit the Source Links page of the Unix Lessons Project at GitHub pages"}{:target="_blank"} page of the Unix Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+{% include patreon-link.md %}

@@ -20,6 +20,7 @@ encoding: UTF-8
 title: "Unix Lesson Project"
 tagline: "A GitHub repo of Lessons and Articles that emphasize the Unix machine language"
 description: "The Unix Lessons Project, or ULP is a GitHub repo of Lessons and Articles emphasizing the Unix machine language."
+#
 twitter:
     username: "mminail"
 author:
