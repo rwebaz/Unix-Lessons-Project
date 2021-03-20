@@ -16,91 +16,91 @@ categories: template
 
 ### Clear a Terminal page = `clear`
 
-How to "Clear" the screen of a Terminal page w `Zed-shell`
+#### How to "Clear" the screen of a Terminal page w `Zed-shell`
 
-1.) Clear the screen back to the current subdirectory = `clear`
+a.) Clear the screen back to the current subdirectory = `clear`
 
 ### Change to a current Directory = `cd`
 
 How to "Change to" an existing directory or subdirectory w `Zed-shell`
 
-1.) Change Directory `cd` = cd nft
+b.) Change Directory `cd` = cd nft
 
-2.) Change Directory `cd /` = return to the `root` directory
+c.) Change Directory `cd /` = return to the `root` directory
 
-3.) Change Directory `cd ~` = return to the `home` directory
+d.) Change Directory `cd ~` = return to the `home` directory
 
-4.) Change Directory `cd ..` = move backwards one directory
+e.) Change Directory `cd ..` = move backwards one directory
 
 ### Print the current working directory = `pwd`
 
 How to "Print" a working directory or subdirectory  w `Zed-shell`
 
-1.) Print Working Directory `pwd` = /Users/name_that_user/nft
+f.) Print Working Directory `pwd` = /Users/name_that_user/nft
 
 ### List the contents of the current subdirectory = `ls`
 
 How to "list the items" in a working directory or subdirectory  w `Zed-shell`
 
-1.) List Items `ls` = the default of this command simply returns the name labels across the Terminal space horizontally
+g.) List Items `ls` = the default of this command simply returns the name labels across the Terminal space horizontally
 
-2.) Man ls = Other switches or `flags` for the `ls` command are located in the Manual = `man`
+h.) Man ls = Other switches or `flags` for the `ls` command are located in the Manual = `man`
 
-3.) Use the `l` switch ( ... small L = l ...) to list the items in the directory "vertically" w full "long" data = `ls -l`
+i.) Use the `l` switch ( ... small L = l ...) to list the items in the directory "vertically" w full "long" data = `ls -l`
 
 ### Add a file = `touch`
 
 How to add an empty file to a subdirectory in Terminal w `Zed-shell`
 
-1.)  From the target directory ... Touch a filename including the suffix = `touch index.htm`
+j.)  From the target directory ... Touch a filename including the suffix = `touch index.htm`
 
 ### Make Directory = `mkdir`
 
 How to add or `make` a folder or subdirectory within a directory in Terminal w `Zed-shell`
 
-1.) From the target directory ... `Make` a subdirectory or folder named "test" = `mkdir test`
+k.) From the target directory ... `Make` a subdirectory or folder named "test" = `mkdir test`
 
 How to add or `make` a folder or subdirectory with a `two-word` name  within a directory in Terminal w `Zed-shell` using the `backslash` or " ... \ ..."key
 
-1.) From the target directory ... Make a subdirectory or folder named "test two" = `mkdir test\ two`
+l.) From the target directory ... Make a subdirectory or folder named "test two" = `mkdir test\ two`
 
 ### Remove a file or folder = `rm` and `rmdir`
 
 How to `remove` a file in a subdirectory in Terminal w `Zed-shell`
 
-1.)  From the target directory ... `Remove` a filename including the suffix = `rm index.htm`
+m.)  From the target directory ... `Remove` a filename including the suffix = `rm index.htm`
 
 How to `remove` a subdirectory from a directory in Terminal w `Zed-shell`
 
-1.)  From the target directory ... `Remove` an empty folder or subdirectory or an empty directory = `rmdir nft`
+n.)  From the target directory ... `Remove` an empty folder or subdirectory or an empty directory = `rmdir nft`
 
-2.)  From the target directory ... Use the "-r" switch or `flag` to `Remove` a folder and all of its contents = `rm -r nft`
+o.)  From the target directory ... Use the "-r" switch or `flag` to `Remove` a folder and all of its contents = `rm -r nft`
 
 ### Rename a file = `mv`
 
 How to `rename` a file in a subdirectory in Terminal w `Zed-shell`
 
-1.)  From the target directory ... `Rename` a filename including the suffix = `mv index.htm index2.htm`
+p.)  From the target directory ... `Rename` a filename including the suffix = `mv index.htm index2.htm`
 
 ### Copy a file or folder = `cp`
 
 How to `copy` a file from one subdirectory to another in Terminal w `Zed-shell`
 
-1.)  From either the source directory or the home directory ... `Copy` a file from another directory to this current subdirectory = `cp nft/index.html ./` using the `dot backslash` or " .\" keys
+q.)  From either the source directory or the home directory ... `Copy` a file from another directory to this current subdirectory = `cp nft/index.html ./` using the `dot backslash` or " .\" keys
 
 How to `copy` a folder and its contents from one subdirectory to another in Terminal w `Zed-shell`
 
-2.)  From either the source directory or the home directory ... `Copy` a folder from another directory to the `home` subdirectory = `cp -r nft ~` using the single `tilde` or " ~ " keys
+r.)  From either the source directory or the home directory ... `Copy` a folder from another directory to the `home` subdirectory = `cp -r nft ~` using the single `tilde` or " ~ " keys
 
 ### Moving a file or folder =`mv`
 
 How to `move` a file from one subdirectory to another in Terminal w `Zed-shell`
 
-1.)  From either the source directory or the home directory ... `Move` a file from another directory to this current subdirectory = `mv nft/index.html ./` using the `dot backslash` or ` .\ ` keys
+s.)  From either the source directory or the home directory ... `Move` a file from another directory to this current subdirectory = `mv nft/index.html ./` using the `dot backslash` or ` .\ ` keys
 
 How to `move` a folder and its contents from one subdirectory to another in Terminal w `Zed-shell`
 
-2.)  From either the source directory or the home directory ... `Move` a folder from another directory to the `home` subdirectory = `mv -r nft ~` using the single `tilde` or " ~ " keys
+t.)  From either the source directory or the home directory ... `Move` a folder from another directory to the `home` subdirectory = `mv -r nft ~` using the single `tilde` or " ~ " keys
 
 ## Last Subtitle
 
