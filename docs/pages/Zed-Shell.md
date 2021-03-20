@@ -22,7 +22,7 @@ a.) Clear the screen back to the current subdirectory = `clear`
 
 ### Change to a current Directory = `cd`
 
-#### How to `cd` to an existing directory or subdirectory w `Zed-shell`?
+#### How to `change directory` to another existing directory or subdirectory w `Zed-shell`?
 
 b.) Change Directory `cd` = cd subdirectory
 
