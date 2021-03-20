@@ -14,9 +14,13 @@ categories: template
 
 > **Hint**. {{ page.hint }}
 
-### How to "Clear" the screen of a Terminal page w `Zed-shell`
+### Clear a Terminal page = `clear`
+
+How to "Clear" the screen of a Terminal page w `Zed-shell`
 
 1.) Clear the screen back to the current subdirectory = `clear`
+
+### Change to a current Directory = `cd`
 
 How to "Change to" an existing directory or subdirectory w `Zed-shell`
 
@@ -28,9 +32,13 @@ How to "Change to" an existing directory or subdirectory w `Zed-shell`
 
 4.) Change Directory `cd ..` = move backwards one directory
 
+### Print the current working directory = `pwd`
+
 How to "Print" a working directory or subdirectory  w `Zed-shell`
 
 1.) Print Working Directory `pwd` = /Users/name_that_user/nft
+
+### List the contents of the current subdirectory = `ls`
 
 How to "list the items" in a working directory or subdirectory  w `Zed-shell`
 
